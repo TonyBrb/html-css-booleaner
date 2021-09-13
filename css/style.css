@@ -42,12 +42,8 @@ main h6 span{
   color: cornflowerblue;
 }
 
-.menu img{
-  height: 100%;
+.menu img{;
   width: 48%;
-}
-.menu .immagine2{
-  height: 169.55px;
 }
 
 main p{
@@ -78,3 +74,21 @@ table tr {
   border:0px;
 }
 
+.paragrafo{
+  margin-top: 10px;
+}
+
+.immaginef1{
+  width: 25%;
+  height: 25%;
+}
+
+h6{
+  color: gray;
+  margin-bottom: 3px;
+}
+
+.immaginef2{
+  width: 25%;
+  height: 25%;
+}
