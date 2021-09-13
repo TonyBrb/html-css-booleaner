@@ -3,7 +3,7 @@ body{
 }
 
 .container{
-  width: 50%;
+  width: 51%;
   margin: auto;
 }
 
@@ -43,7 +43,11 @@ main h6 span{
 }
 
 .menu img{
+  height: 100%;
   width: 48%;
+}
+.menu .immagine2{
+  height: 169.55px;
 }
 
 main p{
@@ -52,5 +56,25 @@ main p{
 }
 
 table{
-  border: 2px solid black;
+  border-collapse: collapse;
+  font-size: 10px;
 }
+
+table th {
+  text-align-last: left;
+  color: white;
+  width: 25%;
+  background-color: rgb(51, 146, 255);
+  border: 0px;
+}
+
+table .riga2{
+  background-color: white;
+}
+
+table tr {
+  background-color: rgb(128, 229, 255);
+  width: 25%;
+  border:0px;
+}
+
