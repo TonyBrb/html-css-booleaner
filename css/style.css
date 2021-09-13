@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+}
+
+.container{
+  width: 50%;
+  margin: auto;
+}
+
+header{
+  width: 100%;
+  height: 60px;
+  background-color: cornflowerblue;
+}
+
+header img{
+  width: 30%;
+  height: 80%;
+}
